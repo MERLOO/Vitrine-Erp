@@ -1,7 +1,7 @@
 # ERP - Système de Gestion d'Entreprise
 
 Application ERP modulaire composée d'un backend NestJS et d'un frontend Next.js.
-
+![Capture d'écran du projet](./image.png)
 ## Structure du projet
 
 ```
